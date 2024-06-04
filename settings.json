@@ -1,0 +1,23 @@
+{
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.colorTheme": "Tokyo Night Light",
+	"files.autoSave": "afterDelay",
+	"editor.wordWrap": "on",
+	"editor.linkedEditing": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"prettier.useTabs": true,
+	"editor.cursorBlinking": "smooth",
+	"terminal.integrated.tabs.separator": " -",
+	"editor.formatOnSave": true,
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"emmet.syntaxProfiles": {
+		"html": {
+			"inline_break": 2
+		}
+	},
+	"emmet.variables": {
+		"lang": "pl"
+	}
+}
