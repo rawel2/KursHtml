@@ -1,0 +1,26 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+div p {
+	background-color: aqua;
+	padding: 50px;
+	margin: 50px;
+}
+
+p {
+	background-color: rgb(63, 173, 76);
+}
+
+span.span1 {
+	background-color: rgb(177, 127, 148);
+}
+
+span.span2 {
+	background-color: rgb(176, 163, 196);
+}
+
+span.span3 {
+	background-color: rgb(204, 232, 174);
+}
