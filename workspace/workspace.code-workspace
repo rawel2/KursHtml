@@ -1,12 +1,19 @@
 {
 	"folders": [
 		{
+			"name": "05_Elementy blokowe i liniowe",
+			"path": "05_Elementy blokowe i liniowe"
+		},
+		{
+			"name": "strona01",
 			"path": "strona01"
 		},
 		{
+			"name": "strona02",
 			"path": "strona02"
 		},
 		{
+			"name": "strona03",
 			"path": "strona03"
 		}
 	],
