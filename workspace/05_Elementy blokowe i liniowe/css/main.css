@@ -3,13 +3,13 @@
 	margin: 0px;
 }
 
-div p {
+div{
 	background-color: aqua;
 	padding: 50px;
 	margin: 50px;
 }
 
-p {
+p#p1 {
 	background-color: rgb(63, 173, 76);
 }
 
