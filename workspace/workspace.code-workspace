@@ -15,9 +15,12 @@
 		{
 			"name": "strona03",
 			"path": "strona03"
+		},
+		{
+			"path": "05_Elementy blokowe i liniowe"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "strona01"
+		"liveServer.settings.multiRootWorkspaceName": "05_Elementy blokowe i liniowe"
 	}
 }
